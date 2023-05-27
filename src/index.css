@@ -265,72 +265,72 @@ header nav .header-list {
   display: block;
 }
 .product-grid .product-card .once{
-  background-image: url('images/image-01.png');
+  background-image: url('./images/image-01.png');
   background-position: center;
   background-size: cover;
 }
 .product-grid .product-card .twice{
-  background-image: url('images/image-02.png');
+  background-image: url('./images/image-02.png');
   background-position: center;
   background-size: cover;
 }
 .product-grid .product-card .one{
-  background-image: url('images/image-1.png');
+  background-image: url('./images/image-1.png');
   background-position: center;
   background-size: cover;
 }
 .products .product-grid .product-card .two{
-  background-image: url('images/image-2.png');
+  background-image: url('./images/image-2.png');
   background-position: center;
   background-size: cover;
 }
 .products .product-grid .product-card .three{
-  background-image: url('images/image-3.png');
+  background-image: url('./images/image-3.png');
   background-position: center;
   background-size: cover;
 }
 .products .product-grid .product-card .four{
-  background-image: url('images/image-4.png');
+  background-image: url('./images/image-4.png');
   background-position: center;
   background-size: cover;
 }
 .products .product-grid .product-card .five{
-  background-image: url('images/image-5.jpg');
+  background-image: url('./images/image-5.jpg');
   background-position: center;
   background-size: cover;
 }
 .products .product-grid .product-card .six{
-  background-image: url('images/image-6.png');
+  background-image: url('./images/image-6.png');
   background-position: center;
   background-size: cover;
 }
 .products .product-grid .product-card .seven{
-  background-image: url('images/image-7.png');
+  background-image: url('./images/image-7.png');
   background-position: center;
   background-size: cover;
 }
 .products .product-grid .product-card .eight{
-  background-image: url('images/image-8.png');
+  background-image: url('./images/image-8.png');
   background-position: center;
   background-size: cover;
 }
 .products .product-grid .product-card .nine{
-  background-image: url('images/image-9.png');
+  background-image: url('./images/image-9.png');
   background-position: center;
   background-size: cover;
 }
 .products .product-grid .product-card .ten{
-  background-image: url('images/image-10.png');
+  background-image: url('./images/image-10.png');
   background-position: center;
   background-size: cover;
 }
 .products .product-grid .product-card .eleven{
-  background-image: url('images/image-11.png');
+  background-image: url('./images/image-11.png');
   background-position: center;
   background-size: cover;
 }
 .products .product-grid .product-card .twelve{
-  background-image: url('images/image-12.jpeg');
+  background-image: url('./images/image-12.jpeg');
   background-position: center;
   background-size: cover;
 }
