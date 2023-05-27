@@ -645,6 +645,10 @@ font-weight:545;
   .products .product-grid{
     grid-template-columns: 1fr;
   }
+  .products .head span,.products .head a {
+    font-size: 1rem;
+  }
+
 }
 
 /* MAIN */
