@@ -265,7 +265,7 @@ header nav .header-list {
   display: block;
 }
 .product-grid .product-card .once{
-  background-image: url('images/image-01.png');
+  background-image: url('/public/images/image-01.png');
   background-position: center;
   background-size: cover;
 }
