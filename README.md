@@ -29,6 +29,22 @@ Before you begin, ensure you have the following prerequisites:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/printivo-homepage-clone.git
+   git clone  https://github.com/JustFelix-Dev/react-Printivo-clone.git
 
-![Scheduley]()
+2. Navigate to the project directory :
+   ```bash
+   cd react-Printivo-clone
+
+3. Install the required dependencies:
+   ```bash
+   npm install
+4. Start development server:
+   ```bash
+   npm run dev
+
+This will start the application and open it in your default web browser.
+
+- Explore the Printivo Homepage Clone to learn about web design, responsiveness, and PWA features. Interact with the various elements and animations.
+
+- Install it as a PWA on your device for an enhanced offline experience (if supported by your browser).
+   
